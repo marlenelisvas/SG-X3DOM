@@ -17,7 +17,7 @@ h1
     margin: 0.1em auto;
     text-shadow:5em 5em 10em rgba(255,255,255,0.8);
     text-align: center;    
-    color: darkorange;
+    color: rgb(56, 19, 189);
 }
 h5
 {
@@ -47,6 +47,7 @@ h5
     height: 40em;
     border:0.1em solid silver;
     background: rgba(128, 128, 128, 0.4);
+    
 }
 #overlayHeader {
 	position:absolute;
